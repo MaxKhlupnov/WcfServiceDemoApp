@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/WcfServiceWebApp/.vs/WcfServiceWebApp/v16
+/WcfServiceWebApp/bin
+/WcfServiceWebApp/obj
+/WcfServiceWebApp/Properties
+/WcfServiceWebApp/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.10.9

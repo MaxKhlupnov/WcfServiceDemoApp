@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.10.9
+/WcfClient/bin/Debug
+/WcfClient/obj
+/WcfServiceWebApp/.vs/WcfServiceWebApp/v16
+/WcfServiceWebApp/bin
+/WcfServiceWebApp/obj
+/WcfServiceWebApp/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.10.9
+/WcfServiceWebApp/Properties/PublishProfiles

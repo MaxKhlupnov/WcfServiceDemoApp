@@ -78,8 +78,10 @@
       <DependentUpon>Dockerfile</DependentUpon>
     </None>
     <None Include="packages.config" />
-    <None Include="Properties\PublishProfiles\cr.yandex.pubxml" />
+    <None Include="Properties\PublishProfiles\ cr.yandex_c9q8co9ggkl6rl4fdtfk.pubxml" />
+    <None Include="Properties\PublishProfiles\cr.yandex_crp9frmut0ranavckce2_.pubxml" />
     <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\WebDeployPackage_DemoWebSite.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

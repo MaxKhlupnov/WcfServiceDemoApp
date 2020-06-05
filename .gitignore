@@ -8,3 +8,6 @@
 /WcfServiceWebApp/obj
 /WcfServiceWebApp/Properties
 /WcfServiceWebApp/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.10.9
+/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.10.9
+/WcfClient/bin/Debug
+/WcfClient/obj

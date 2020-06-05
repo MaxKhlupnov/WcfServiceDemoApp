@@ -10,7 +10,7 @@ namespace WcfClient
         static void Main(string[] args)
         {
             Console.WriteLine("Client OS: {0}", Environment.OSVersion);
-            host = Environment.GetEnvironmentVariable("host") ?? "localhost";
+            host = args[0] ?? "localhost";
             Console.WriteLine("Service Host: {0}", host);
 
             CallViaHttp();
